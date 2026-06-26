@@ -1,2 +1,1 @@
-# ReaAdaptive
-A Reaper/FMOD Framework for Adaptive Music
+# A Reaper/FMOD Framework for Adaptive Music

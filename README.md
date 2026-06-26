@@ -33,7 +33,7 @@ The framework consists of two components:
 
 Once installed, the renderer is executed from **Actions > Show action list** by selecting the corresponding action, on a project containing the regions to be rendered.
 
-![TransitionsRenderer GUI](docs/renderer-gui.png)
+![TransitionsRenderer GUI](docs/renderer_gui.png)
 
 The GUI includes a transition graph matrix in the upper section, allowing users to specify the transition graph graphically. Users can choose to include all regions in the project or only those selected in the region render matrix. Once the transition graph is defined, the lower buttons enable users to either:
 - **Render assets and export** the graph to a JSON file, or

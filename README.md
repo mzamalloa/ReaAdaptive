@@ -10,7 +10,7 @@ The framework consists of two components:
 ## Installation
 
 ### Reaper Script — TransitionsRenderer
-https://github.com/mzamalloa/ReaAdaptive/releases/download/1.0.2_First_release/ReaAdaptive.release.1.0.2.zip
+
 1. Download the latest release and uncompress it.
 [![Download](https://img.shields.io/github/v/release/mzamalloa/ReaAdaptive?label=Download&style=flat-square)](https://github.com/mzamalloa/ReaAdaptive/releases/download/1.0.2_First_release/ReaAdaptive.release.1.0.2.zip
 )

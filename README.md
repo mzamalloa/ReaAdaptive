@@ -11,7 +11,8 @@ The framework consists of two components:
 
 ### Reaper Script — TransitionsRenderer
 
-1. Download the `TransitionsRenderer` folder from this repository.
+1. Download the latest release and uncompress it.
+[![Download](https://img.shields.io/github/v/release/mzamalloa/ReaAdaptive?label=Download&style=flat-square)](https://github.com/mzamalloa/ReaAdaptive/releases/latest)
 2. Locate your Reaper Scripts folder by opening Reaper and navigating to **Options > Show REAPER resource path in Explorer/Finder**. Inside the opened folder, go to the `Scripts` subfolder.
 3. Copy the `TransitionsRenderer` folder into that `Scripts` folder.
 4. Back in Reaper, go to **Actions > Show action list**, click **ReaScript: Load**, and load the main script (Transitions Renderer v1.lua) from the folder.

@@ -31,7 +31,7 @@ The framework consists of two components:
 A demonstration video is available [here](https://drive.google.com/file/d/1N2CV54FB5GoNftb0w1jMcDUh9MzEoQg6/view?usp=sharing).
 
 Demonstration video:
-<video src="docs/Video COG26.mp4" controls width="600"/>
+<video src="docs/DemoVideoCOG26.mp4" controls width="600"/>
 
 ### Reaper Script — TransitionsRenderer
 

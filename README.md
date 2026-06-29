@@ -30,6 +30,9 @@ The framework consists of two components:
 
 A demonstration video is available [here](https://drive.google.com/file/d/1N2CV54FB5GoNftb0w1jMcDUh9MzEoQg6/view?usp=sharing).
 
+Demonstration video:
+<video src="docs/Video COG26.mp4" controls width="600"/>
+
 ### Reaper Script — TransitionsRenderer
 
 The renderer is executed from **Actions > Show action list** by selecting the corresponding action (Transitions Renderer v1.lua), on a project containing the regions to be rendered.

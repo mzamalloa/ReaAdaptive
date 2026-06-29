@@ -34,7 +34,7 @@ A demonstration video is available [here](https://drive.google.com/file/d/1N2CV5
 
 The renderer is executed from **Actions > Show action list** by selecting the corresponding action (Transitions Renderer v1.lua), on a project containing the regions to be rendered.
 
-<img src="docs/renderer_gui.png" width="600"/>
+<img src="docs/renderer_gui.png" width="400"/>
 <!--![TransitionsRenderer GUI](docs/renderer_gui.png)-->
 
 
@@ -55,7 +55,7 @@ The **Settings** menu provides configuration options:
 
 ### FMOD Script — TransitionsAssembler
 
-On an empty FMOD project, run the script from **Scripts > TransitionsAssembler** and provide the path (ending with ´/´ of the generated assets folder). The script will automatically generate a complete event containing:
+On an empty FMOD project, run the script from **Scripts > TransitionsAssembler** and provide the path (ending with ´/´) of the generated assets folder. The script will automatically generate a complete event containing:
 - All music regions as timeline segments
 - The transition logic between regions
 - A labeled parameter driving the region switching
